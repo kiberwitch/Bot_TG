@@ -90,11 +90,10 @@ python main.py
 
 ```
 it-outsourcing-bot/
-├── main.py            # Основной файл бота
+├── bot.py            # Основной файл бота
 ├── requirements.txt   # Зависимости
 ├── .env.example       # Пример файла конфигурации
 ├── README.md          # Этот файл
-└── images/            # Директория для изображений
 ```
 
 ## 🌟 Особенности
